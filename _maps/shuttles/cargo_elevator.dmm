@@ -1,0 +1,25 @@
+"a" = (/obj/effect/turf_decal/tile/brown{dir = 4},/obj/effect/turf_decal/tile/brown{dir = 8},/obj/effect/turf_decal/tile/brown{dir = 1},/obj/machinery/computer/shuttle/cargo/elevator,/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"b" = (/obj/effect/turf_decal/tile/brown{dir = 4},/obj/effect/turf_decal/tile/brown{dir = 1},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"c" = (/obj/effect/turf_decal/tile/brown{dir = 4},/obj/effect/turf_decal/tile/brown{dir = 1},/obj/structure/railing{icon_state = "railing"; dir = 4},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"d" = (/obj/effect/turf_decal/tile/brown{dir = 8},/obj/effect/turf_decal/tile/brown{dir = 1},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"e" = (/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"f" = (/obj/effect/turf_decal/tile/brown,/obj/effect/turf_decal/tile/brown{dir = 4},/obj/machinery/conveyor{dir = 1; id = "cargoload"},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"g" = (/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 8},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"h" = (/turf/open/openspace,/area/template_noop)
+"i" = (/obj/effect/turf_decal/tile/brown{dir = 8},/obj/effect/turf_decal/tile/brown,/obj/effect/turf_decal/tile/brown{dir = 1},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"j" = (/obj/effect/turf_decal/tile/brown,/obj/effect/turf_decal/tile/brown{dir = 8},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"k" = (/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/brown,/obj/effect/turf_decal/tile/brown{dir = 8},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"l" = (/obj/structure/railing/corner{icon_state = "railing_corner"; dir = 4},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"m" = (/obj/effect/turf_decal/tile/brown{dir = 8},/obj/effect/turf_decal/tile/brown{dir = 1},/obj/docking_port/mobile/elevator{dir = 4; dwidth = 2; height = 6; id = "cargo_elevator"; name = "cargo elevator"; width = 5},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"n" = (/obj/effect/turf_decal/tile/brown,/obj/effect/turf_decal/tile/brown{dir = 4},/obj/structure/railing{icon_state = "railing"; dir = 1},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"o" = (/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/structure/railing/corner,/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"p" = (/obj/machinery/conveyor{icon_state = "conveyor_map"; dir = 9; id = "garbage"},/obj/structure/railing,/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+"q" = (/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/brown,/obj/effect/turf_decal/tile/brown{dir = 8},/obj/structure/railing{icon_state = "railing"; dir = 4},/turf/open/floor/plasteel,/area/shuttle/cargo/CargoElevator)
+
+(1,1,1) = {"
+abbbch
+deeeln
+meeeef
+deggop
+ijkkqh
+"}
